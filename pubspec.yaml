@@ -1,0 +1,55 @@
+name: io_flutter
+description: A Flutter project to create an I/O App with the best of Flutter
+
+version: 2.0.0
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cached_network_image: ^3.0.0
+  cupertino_icons: ^1.0.3
+  material_design_icons_flutter: ^5.0.5955-rc.1
+  quick_actions: ^0.6.0+1
+  share: ^2.0.1
+  side_header_list_view: ^1.0.0-nullsafety.0
+  url_launcher: ^6.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.9.0
+  flutter_native_splash: ^1.1.8+4
+  pedantic: ^1.11.0
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/img/light.png"
+
+flutter_native_splash:
+  color: "#ffffff"
+  color_dark: "#121212"
+  image: "assets/img/light.png"
+  image_dark: "assets/img/dark.png"
+
+# The following section is specific to Flutter.
+flutter:
+  uses-material-design: true
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/
+    - assets/img/
+    - assets/json/
+    - assets/fonts/
+
+
+  fonts:
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/Roboto-Regular.ttf
+        - asset: assets/fonts/Roboto-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Roboto-Medium.ttf

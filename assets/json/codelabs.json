@@ -1,0 +1,890 @@
+[
+  {
+    "codelabLink": "",
+    "codelabTitle": "",
+    "tag0": "",
+    "tag1": ""
+  },
+  {
+    "codelabLink": "https://developer.android.com/codelabs/android-room-with-a-view-kotlin?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Android room with a view - Kotlin",
+    "tag0": "Codelabs",
+    "tag1": "Android"
+  },
+  {
+    "codelabLink": "https://developers.google.com/codelabs/maps-platform/maps-platform-101-objc#0?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Add a map to your iOS app (Objective-C)",
+    "tag0": "Codelabs",
+    "tag1": "Location/Maps"
+  },
+  {
+    "codelabLink": "https://developer.android.com/codelabs/watchnext-for-movie-tv-episodes?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Improve engagement on Watch Next for TV episodes on Android TV",
+    "tag0": "Codelabs",
+    "tag1": "Android"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/the-lit-path?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "From web component to LitElement",
+    "tag0": "Codelabs",
+    "tag1": "Web"
+  },
+  {
+    "codelabLink": "https://developers.google.com/codelabs/maps-platform/maps-platform-ios-swiftui?utm_source=google-io21&utm_medium=referral&utm_campaign=io21-resources",
+    "codelabTitle": "Add a map to your iOS app (Swift)",
+    "tag0": "Codelabs",
+    "tag1": "Location/Maps"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/tflite-object-detection-android?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Build and deploy custom object detection model with TensorFlow Lite",
+    "tag0": "Codelabs",
+    "tag1": "ML/AI"
+  },
+  {
+    "codelabLink": "https://developer.android.com/codelabs/making-waves-2-sampler?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Making more waves - sampler",
+    "tag0": "Codelabs",
+    "tag1": "Android"
+  },
+  {
+    "codelabLink": "https://firebase.google.com/codelabs/stripe-firebase-extensions?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Add subscription payments to your web app with Firebase Extensions & Stripe",
+    "tag0": "Codelabs",
+    "tag1": "Firebase"
+  },
+  {
+    "codelabLink": "https://developer.android.com/codelabs/android-navigation?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Learn Jetpack Navigation",
+    "tag0": "Codelabs",
+    "tag1": "Android"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/admob-inline-ads-in-flutter?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Adding an AdMob banner and native inline ads to a Flutter app",
+    "tag0": "Codelabs",
+    "tag1": "Flutter"
+  },
+  {
+    "codelabLink": "https://www.qwiklabs.com/focuses/5162?catalog_rank=%7B%22rank%22%3A8%2C%22num_filters%22%3A3%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=9385531",
+    "codelabTitle": "Hello Cloud Run",
+    "tag0": "Sandboxes",
+    "tag1": "Codelabs"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/cloud-spanner-leaderboard-java?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Cloud Spanner: Create a gaming leaderboard with Java",
+    "tag0": "Codelabs",
+    "tag1": "Cloud"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/tfjs-training-classfication#0?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "TensorFlow.js: Handwritten digit recognition with CNNs",
+    "tag0": "Codelabs",
+    "tag1": "ML/AI"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/smarthome-traits?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Enhance and secure your smart home Actions",
+    "tag0": "Codelabs",
+    "tag1": "Google Assistant"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/chip-get-started?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Getting Started with Connected Home over IP (CHIP)",
+    "tag0": "Codelabs",
+    "tag1": "Web"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/lit-brick-viewer?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Build a Brick Viewer with LitElement",
+    "tag0": "Codelabs",
+    "tag1": "Web"
+  },
+  {
+    "codelabLink": "http://firebase.google.com/codelabs/appdistribution-udid-collection?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Integrating the app distribution SDK in iOS apps",
+    "tag0": "Codelabs",
+    "tag1": "Firebase"
+  },
+  {
+    "codelabLink": "https://firebase.google.com/codelabs/upgrade-to-modular?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Supercharge your web app with the modular Firebase JS SDK",
+    "tag0": "Codelabs",
+    "tag1": "Firebase"
+  },
+  {
+    "codelabLink": "https://firebase.google.com/codelabs/firebase-emulator?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Local development with the Firebase Emulator Suite",
+    "tag0": "Codelabs",
+    "tag1": "Firebase"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/drive-gcs-vision-sheets?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Image archiving, analysis, and report generation with G Suite and GCP",
+    "tag0": "Codelabs",
+    "tag1": "Cloud"
+  },
+  {
+    "codelabLink": "https://developer.android.com/codelabs/supporting-mediasession?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Controlling media through MediaSession",
+    "tag0": "Codelabs",
+    "tag1": "Android"
+  },
+  {
+    "codelabLink": "https://developer.android.com/codelabs/android-window-manager-dual-screen-foldables?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Support foldable and dual-screen devices with Jetpack WindowManager",
+    "tag0": "Codelabs",
+    "tag1": "Android"
+  },
+  {
+    "codelabLink": "https://developers.google.com/codelabs/location-places-android?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Build your own Current Place picker for Android (Java)",
+    "tag0": "Codelabs",
+    "tag1": "Location/Maps"
+  },
+  {
+    "codelabLink": "https://firebase.google.com/codelabs/appdistribution-udid-collection?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Distribute your pre-release iOS builds faster with App Distribution and fastlane",
+    "tag0": "Codelabs",
+    "tag1": "Firebase"
+  },
+  {
+    "codelabLink": "https://developers.google.com/codelabs/building-a-web-app-with-angular-and-firebase?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Building a web application with Angular and Firebase",
+    "tag0": "Codelabs",
+    "tag1": "Web"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/cast-receiver?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Build a basic Cast receiver",
+    "tag0": "Codelabs",
+    "tag1": "Web"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/cast-videos-ios?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Cast-enable an iOS app",
+    "tag0": "Codelabs",
+    "tag1": "Web"
+  },
+  {
+    "codelabLink": "https://developers.google.com/codelabs/maps-platform-101-js?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Add a map to your website (JavaScript)",
+    "tag0": "Codelabs",
+    "tag1": "Location/Maps"
+  },
+  {
+    "codelabLink": "https://developers.google.com/learn/pathways/maps-visualize-data",
+    "codelabTitle": "Visualize data with Google Maps",
+    "tag0": "Learning Lab",
+    "tag1": "Location/Maps"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/docai-form-parser-v3-python?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Use Document AI to intelligently process your handwritten forms (Python)",
+    "tag0": "Codelabs",
+    "tag1": "Cloud"
+  },
+  {
+    "codelabLink": "https://firebase.google.com/codelabs/digitclassifier-ios?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Add Firebase to your TFLite-powered iOS App",
+    "tag0": "Codelabs",
+    "tag1": "Firebase"
+  },
+  {
+    "codelabLink": "https://developers.google.com/learn/pathways/going-further-audio-classification?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Go further with audio classification",
+    "tag0": "Learning Lab",
+    "tag1": "ML/AI"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/workspace-add-on-nodejs-cloudrun?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Let's Build a Google Workspace Add-on!",
+    "tag0": "Codelabs",
+    "tag1": "Cloud"
+  },
+  {
+    "codelabLink": "https://developers.google.com/learn/pathways/get-started-text-classification-web?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Get started with comment spam detection",
+    "tag0": "Learning Lab",
+    "tag1": "ML/AI"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/mdc-104-flutter?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "MDC-104 Flutter: Material advanced components (Flutter)",
+    "tag0": "Codelabs",
+    "tag1": "Flutter"
+  },
+  {
+    "codelabLink": "https://developer.android.com/courses/pathways/android-coroutines?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Use coroutines in common Android use cases",
+    "tag0": "Learning Lab",
+    "tag1": "Android"
+  },
+  {
+    "codelabLink": "https://developer.android.com/codelabs/ongoing-activity?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Engage Wear OS users in new ways with the Ongoing Activity API",
+    "tag0": "Codelabs",
+    "tag1": "Android"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/friendlyeats-flutter?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Multi-platform Firestore Flutter",
+    "tag0": "Codelabs",
+    "tag1": "Flutter"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Write your first Flutter app, part 2",
+    "tag0": "Codelabs",
+    "tag1": "Flutter"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/cast-videos-chrome?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Cast-enable a Chrome web app",
+    "tag0": "Codelabs",
+    "tag1": "Web"
+  },
+  {
+    "codelabLink": "https://developers.google.com/codelabs/maps-platform/webgl?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Building next generation mapping experiences for the web",
+    "tag0": "Codelabs",
+    "tag1": "Location/Maps"
+  },
+  {
+    "codelabLink": "https://developer.android.com/codelabs/android-hilt?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Using Hilt in your Android app",
+    "tag0": "Codelabs",
+    "tag1": "Android"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/adaptive-material-guidance?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Design an Adaptive Layout with Material Design",
+    "tag0": "Codelabs",
+    "tag1": "Design"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/tensorflowjs-object-detection/?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "TensorFlow.js: Make a smart webcam in JS with a pre-trained ML model",
+    "tag0": "Codelabs",
+    "tag1": "ML/AI"
+  },
+  {
+    "codelabLink": "https://www.qwiklabs.com/quests/129?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A3%2C%22has_search%22%3Atrue%7D&search_id=9385566",
+    "codelabTitle": "Getting Started with Go on Google Cloud",
+    "tag0": "Sandboxes",
+    "tag1": "Codelabs"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/augimg-intro?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "ARCore augmented images",
+    "tag0": "Codelabs",
+    "tag1": "Augmented Reality"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/appactions-beta?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Extend an Android app to Google Assistant with App Actions",
+    "tag0": "Codelabs",
+    "tag1": "Google Assistant"
+  },
+  {
+    "codelabLink": "https://developer.android.com/codelabs/approximate-location?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Approximate Location",
+    "tag0": "Codelabs",
+    "tag1": "Android"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/mdc-101-flutter?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "MDC-101 Flutter: Material components (MDC) basics (Flutter)",
+    "tag0": "Codelabs",
+    "tag1": "Flutter"
+  },
+  {
+    "codelabLink": "https://developers.google.com/learn/pathways/going-further-object-detection?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Go further with object detection",
+    "tag0": "Learning Lab",
+    "tag1": "ML/AI"
+  },
+  {
+    "codelabLink": "https://developers.google.com/learn/pathways/cross-platform-apps-with-angular?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Build cross-platform apps with Angular",
+    "tag0": "Learning Lab",
+    "tag1": "Web"
+  },
+  {
+    "codelabLink": "https://developer.android.com/codelabs/basic-android-kotlin-training-first-kotlin-program?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Write your first program in Kotlin",
+    "tag0": "Codelabs",
+    "tag1": "Android"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/mdc-103-flutter?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "MDC-103 Flutter: Material theming with color, shape, elevation, and type (Flutter)",
+    "tag0": "Codelabs",
+    "tag1": "Flutter"
+  },
+  {
+    "codelabLink": "https://developers.google.com/learn/pathways/firebase-performance-monitoring?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Monitor new features with Firebase Performance Monitoring",
+    "tag0": "Learning Lab",
+    "tag1": "Firebase"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/write-flutter-plugin?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "How to write a Flutter plugin",
+    "tag0": "Codelabs",
+    "tag1": "Flutter"
+  },
+  {
+    "codelabLink": "http://developers.google.com/codelabs/maps-platform/webgl?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Building WebGL-accelerated map experiences",
+    "tag0": "Codelabs",
+    "tag1": "Location/Maps"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/semantic-locators?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Using Semantic Locators in your web UI tests",
+    "tag0": "Codelabs",
+    "tag1": "Accessibility"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/connecting-to-cloud-sql-with-cloud-functions?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Connecting to Cloud SQL with Cloud Functions",
+    "tag0": "Codelabs",
+    "tag1": "Cloud"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/admob-ads-in-flutter?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Adding AdMob ads to a Flutter app",
+    "tag0": "Codelabs",
+    "tag1": "Flutter"
+  },
+  {
+    "codelabLink": "https://developer.android.com/codelabs/building-kotlin-extensions-library?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Building a Kotlin extensions library",
+    "tag0": "Codelabs",
+    "tag1": "Android"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/arcore-depth/#0?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "ARCore Depth",
+    "tag0": "Codelabs",
+    "tag1": "Augmented Reality"
+  },
+  {
+    "codelabLink": "https://developers.google.com/learn/pathways/going-further-image-classification?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Go further with image classification",
+    "tag0": "Learning Lab",
+    "tag1": "ML/AI"
+  },
+  {
+    "codelabLink": "https://google.qwiklabs.com/quests/34",
+    "codelabTitle": "Baseline Data, ML and AI Lab",
+    "tag0": "Sandboxes",
+    "tag1": "Codelabs"
+  },
+  {
+    "codelabLink": "https://developers.google.com/learn/pathways/get-started-mobile-text-classification?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Get started with mobile text classification",
+    "tag0": "Learning Lab",
+    "tag1": "ML/AI"
+  },
+  {
+    "codelabLink": "https://developers.google.com/learn/pathways/going-further-text-classification-web?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Go further with comment spam detection - model retraining",
+    "tag0": "Learning Lab",
+    "tag1": "ML/AI"
+  },
+  {
+    "codelabLink": "https://developer.android.com/codelabs/android-adv-workmanager?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Advanced WorkManager",
+    "tag0": "Codelabs",
+    "tag1": "Android"
+  },
+  {
+    "codelabLink": "https://developers.google.com/codelabs/maps-deck-gl?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Visualize data with Google Maps Platform and deck.gl",
+    "tag0": "Codelabs",
+    "tag1": "Location/Maps"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/material-motion-flutter?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Building beautiful transitions with Material Motion for Flutter",
+    "tag0": "Codelabs",
+    "tag1": "Flutter"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/lit-story-viewer?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Build a story component with LitElement",
+    "tag0": "Codelabs",
+    "tag1": "Web"
+  },
+  {
+    "codelabLink": "https://developer.android.com/codelabs/android-sleep-api?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Android Sleep API",
+    "tag0": "Codelabs",
+    "tag1": "Android"
+  },
+  {
+    "codelabLink": "https://developer.android.com/codelabs/android-paging?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Android Paging",
+    "tag0": "Codelabs",
+    "tag1": "Android"
+  },
+  {
+    "codelabLink": "https://firebase.google.com/codelabs/firestore-google-assistant#0?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Spelling Practice Game using Google Assistant and Cloud Firestore",
+    "tag0": "Codelabs",
+    "tag1": "Firebase"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/flutter?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Building beautiful UIs with Flutter",
+    "tag0": "Codelabs",
+    "tag1": "Flutter"
+  },
+  {
+    "codelabLink": "https://developers.google.com/nest/device-access/codelabs/web-app?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Building a device access web application",
+    "tag0": "Codelabs",
+    "tag1": "Web"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/otel-cloudtrace?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Instrument trace information using OpenTelemetry",
+    "tag0": "Codelabs",
+    "tag1": "Cloud"
+  },
+  {
+    "codelabLink": "https://firebase.google.com/codelabs/firebase-rules?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Protect your data with Firestore Security Rules",
+    "tag0": "Codelabs",
+    "tag1": "Firebase"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/cloud-gae-python-migrate-4-rundocker?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Migrate from Google App Engine to Cloud Run with Docker",
+    "tag0": "Codelabs",
+    "tag1": "Cloud"
+  },
+  {
+    "codelabLink": "https://google.qwiklabs.com/quests/23",
+    "codelabTitle": "Google Cloud Essentials",
+    "tag0": "Sandboxes",
+    "tag1": "Codelabs"
+  },
+  {
+    "codelabLink": "http://codelabs.developers.google.com/codelabs/dialogflow-flutter?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Build voice bots for mobile with Dialogflow and Flutter",
+    "tag0": "Codelabs",
+    "tag1": "Cloud"
+  },
+  {
+    "codelabLink": "https://developers.google.com/codelabs/maps-platform-101-android?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Google Maps Platform 101—Android",
+    "tag0": "Codelabs",
+    "tag1": "Location/Maps"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/cloud-gae-python-migrate-1-flask?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Migrate from App Engine webapp2 to Flask",
+    "tag0": "Codelabs",
+    "tag1": "Cloud"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/flutter_ads#0?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Launching Google Ads campaigns with Google Analytics Custom Events and Flutter",
+    "tag0": "Codelabs",
+    "tag1": "Flutter"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/arcore-cloud-anchors",
+    "codelabTitle": "ARCore Cloud Anchors with persistent Cloud Anchors",
+    "tag0": "Codelabs",
+    "tag1": "Augmented Reality"
+  },
+  {
+    "codelabLink": "https://developer.android.com/codelabs/cast-connect-atv?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Cast Connect with ATV app",
+    "tag0": "Codelabs",
+    "tag1": "Android"
+  },
+  {
+    "codelabLink": "https://developer.android.com/codelabs/optimized-for-chromeos?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Optimizing your Android App for Chrome OS",
+    "tag0": "Codelabs",
+    "tag1": "Android"
+  },
+  {
+    "codelabLink": "https://developers.google.com/learn/pathways/fugu-apis",
+    "codelabTitle": "Use Fugu-APIs to close the gap between web apps and platform-specific apps",
+    "tag0": "Learning Lab",
+    "tag1": "Chrome OS"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/actions-sdk-1?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Build Actions for Google Assistant using Actions SDK (Level 1)",
+    "tag0": "Codelabs",
+    "tag1": "Google Assistant"
+  },
+  {
+    "codelabLink": "https://developer.android.com/codelabs/android-workmanager?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Background work with WorkManager - Kotlin",
+    "tag0": "Codelabs",
+    "tag1": "Android"
+  },
+  {
+    "codelabLink": "https://developer.android.com/codelabs/tv-recommendations-kotlin?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Content integration with Android TV home screen channels (Kotlin)",
+    "tag0": "Codelabs",
+    "tag1": "Android"
+  },
+  {
+    "codelabLink": "https://developers.google.com/learn/pathways/going-further-image-product-search?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Go further with product image search",
+    "tag0": "Learning Lab",
+    "tag1": "ML/AI"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/angular-a11y?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Build more accessible Angular apps",
+    "tag0": "Codelabs",
+    "tag1": "Accessibility"
+  },
+  {
+    "codelabLink": "https://developers.google.com/codelabs/maps-platform/full-stack-store-locator#0?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Build a full stack store locator with Google Maps Platform and Google Cloud",
+    "tag0": "Codelabs",
+    "tag1": "Location/Maps"
+  },
+  {
+    "codelabLink": "https://developers.google.com/codelabs/devtools-cvd#0?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Discover and fix low-contrast text with Chrome DevTools",
+    "tag0": "Codelabs",
+    "tag1": "Web"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/cloud-run-dev2prod?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Dev to prod in 3 easy steps with Google Cloud Run",
+    "tag0": "Codelabs",
+    "tag1": "Cloud"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/passes-loyaltyapi?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "One-click loyalty signup on Google Pay and Google Maps",
+    "tag0": "Codelabs",
+    "tag1": "Payments"
+  },
+  {
+    "codelabLink": "https://developers.google.com/learn/pathways/get-started-image-classification?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Get started with image classification",
+    "tag0": "Learning Lab",
+    "tag1": "ML/AI"
+  },
+  {
+    "codelabLink": "https://developer.android.com/codelabs/java-to-kotlin?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Converting to Kotlin",
+    "tag0": "Codelabs",
+    "tag1": "Android"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/actions-builder-1?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Build Actions for Google Assistant using Actions Builder (Level 1)",
+    "tag0": "Codelabs",
+    "tag1": "Google Assistant"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/from-java-to-dart?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Intro to Dart for Java developers",
+    "tag0": "Codelabs",
+    "tag1": "Flutter"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/pair-guidebook?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Building trusted AI products",
+    "tag0": "Codelabs",
+    "tag1": "ML/AI"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/builder-canvas?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Build an Interactive Canvas Action for Google Assistant with Actions Builder",
+    "tag0": "Codelabs",
+    "tag1": "Google Assistant"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/flutter-github-graphql-client?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Write a Flutter desktop application",
+    "tag0": "Codelabs",
+    "tag1": "Flutter"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/cast-videos-android?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Cast-enable an Android app",
+    "tag0": "Codelabs",
+    "tag1": "Android"
+  },
+  {
+    "codelabLink": "https://developer.android.com/codelabs/advanced-kotlin-coroutines?utm_source=google-io21&utm_medium=referral&utm_campaign=io21-resources",
+    "codelabTitle": "Learn advanced coroutines with Kotlin Flow and LiveData",
+    "tag0": "Codelabs",
+    "tag1": "Android"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/tensorflowjs-teachablemachine-codelab?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "TensorFlow.js: Transfer learning image classifier",
+    "tag0": "Codelabs",
+    "tag1": "ML/AI"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/arcore-record-and-playback-intro?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "ARCore Recording and Playback",
+    "tag0": "Codelabs",
+    "tag1": "Augmented Reality"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/vertex-ai-custom-models?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Build and deploy a model with Vertex AI",
+    "tag0": "Codelabs",
+    "tag1": "ML/AI"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/lit-2-for-react-devs?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Lit for React developers",
+    "tag0": "Codelabs",
+    "tag1": "Web"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/actions-sdk-2?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Build Actions for Google Assistant using Actions SDK (Level 2)",
+    "tag0": "Codelabs",
+    "tag1": "Google Assistant"
+  },
+  {
+    "codelabLink": "https://developers.google.com/codelabs/project-fugu?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "A whirlwind tour through Project Fugu APIs",
+    "tag0": "Codelabs",
+    "tag1": "Web"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/cloud-sql-insights-intro?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Introduction to Cloud SQL Insights",
+    "tag0": "Codelabs",
+    "tag1": "Cloud"
+  },
+  {
+    "codelabLink": "https://developers.google.com/codelabs/project-fugu?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Explore new and upcoming browser capabilities for your PWA:From Fugu With Love",
+    "tag0": "Codelabs",
+    "tag1": "Web"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/cloud-spanner-leaderboard-go?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Cloud Spanner:Create a gaming leaderboard with Go",
+    "tag0": "Codelabs",
+    "tag1": "Cloud"
+  },
+  {
+    "codelabLink": "https://developer.android.com/codelabs/android-preferences-datastore?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Working with Preferences DataStore",
+    "tag0": "Codelabs",
+    "tag1": "Android"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/avif#0?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Create and serve AVIF images",
+    "tag0": "Codelabs",
+    "tag1": "Web"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/web-url-launcher?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Using a plugin with a Flutter web app",
+    "tag0": "Codelabs",
+    "tag1": "Flutter"
+  },
+  {
+    "codelabLink": "https://developers.google.com/learn/pathways/get-started-image-product-search?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Get started with product image search",
+    "tag0": "Learning Lab",
+    "tag1": "ML/AI"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/tfjs-training-regression?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "TensorFlow.js: Making predictions from 2D data",
+    "tag0": "Codelabs",
+    "tag1": "ML/AI"
+  },
+  {
+    "codelabLink": "https://firebase.google.com/codelabs/firebase-get-to-know-flutter?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Get to know Firebase for Flutter",
+    "tag0": "Codelabs",
+    "tag1": "Firebase"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/smarthome-debugging/?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Debugging the smart home",
+    "tag0": "Codelabs",
+    "tag1": "Google Assistant"
+  },
+  {
+    "codelabLink": "https://developers.google.com/codelabs/angular-slider-element?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Building an image-slider element using Angular",
+    "tag0": "Codelabs",
+    "tag1": "Web"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Building your first Flutter app",
+    "tag0": "Codelabs",
+    "tag1": "Flutter"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/cloud-gae-python-migrate-2-cloudndb?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Migrate from App Engine ndb to Cloud NDB",
+    "tag0": "Codelabs",
+    "tag1": "Cloud"
+  },
+  {
+    "codelabLink": "https://developer.android.com/codelabs/android-dagger-to-hilt?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Migrating your Dagger app to Hilt",
+    "tag0": "Codelabs",
+    "tag1": "Android"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/privacy-on-beam?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Computing private statistics with Privacy on Beam",
+    "tag0": "Codelabs",
+    "tag1": "Web"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/tensorflowjs-firebase-hosting-model?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "TensorFlow.js: Use Firebase Hosting to deploy and host a machine learning model at scale",
+    "tag0": "Codelabs",
+    "tag1": "ML/AI"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/google-photos-sharing?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Build a photo sharing app with Google Photos and Flutter",
+    "tag0": "Codelabs",
+    "tag1": "Flutter"
+  },
+  {
+    "codelabLink": "https://developers.google.com/learn/pathways/get-started-maps?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Get started with Google Maps Platform",
+    "tag0": "Learning Lab",
+    "tag1": "Location/Maps"
+  },
+  {
+    "codelabLink": "https://firebase.google.com/codelabs/fiam-abt#0?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Your first in-app messaging experiment",
+    "tag0": "Codelabs",
+    "tag1": "Firebase"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/user-adaptive-interfaces/?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Build user-adaptive interfaces with preference media queries",
+    "tag0": "Codelabs",
+    "tag1": "Web"
+  },
+  {
+    "codelabLink": "http://codelabs.developers.google.com/codelabs/material-communication-guidance/?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Material's communication principles: Intro to UX Writing",
+    "tag0": "Codelabs",
+    "tag1": "Design"
+  },
+  {
+    "codelabLink": "https://firebase.google.com/codelabs/measure-android-view-performance?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Measuring load time and screen rendering with Firebase Performance",
+    "tag0": "Codelabs",
+    "tag1": "Firebase"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/cloud-gae-python-migrate-8-cloudtasks?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Migrate from App Engine ndb and taskqueue to Cloud NDB and Cloud Tasks",
+    "tag0": "Codelabs",
+    "tag1": "Cloud"
+  },
+  {
+    "codelabLink": "http://codelabs.developers.google.com/codelabs/smarthome-debugging-local?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Debugging the Local Home",
+    "tag0": "Codelabs",
+    "tag1": "Google Assistant"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/arcore-unity-ar-foundation#0?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "ARCore extensions for Unity AR Foundation",
+    "tag0": "Codelabs",
+    "tag1": "Augmented Reality"
+  },
+  {
+    "codelabLink": "https://developer.android.com/codelabs/making-waves-1-synth?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Build a synthesizer using Oboe",
+    "tag0": "Codelabs",
+    "tag1": "Android"
+  },
+  {
+    "codelabLink": "https://developer.android.com/codelabs/chromeos-resizing?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Android app resizing for Chrome OS",
+    "tag0": "Codelabs",
+    "tag1": "Android"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/actions-builder-2?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Build Actions for Google Assistant using Actions Builder (Level 2)",
+    "tag0": "Codelabs",
+    "tag1": "Google Assistant"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/arcore-rawdepthapi#0",
+    "codelabTitle": "ARCore Raw Depth",
+    "tag0": "Codelabs",
+    "tag1": "Augmented Reality"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/smarthome-local?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Enable local fulfillment for smart home Actions",
+    "tag0": "Codelabs",
+    "tag1": "Google Assistant"
+  },
+  {
+    "codelabLink": "https://developer.android.com/codelabs/android-proto-datastore?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Working with Proto DataStore",
+    "tag0": "Codelabs",
+    "tag1": "Android"
+  },
+  {
+    "codelabLink": "https://developers.google.com/codelabs/maps-platform/location-places-arcore-android#0?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Display nearby places in AR on Android (Kotlin)",
+    "tag0": "Codelabs",
+    "tag1": "Location/Maps"
+  },
+  {
+    "codelabLink": "https://developers.google.com/codelabs/devtools-debug-css-grid#0?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "How to debug CSS Grid with Chrome DevTools",
+    "tag0": "Codelabs",
+    "tag1": "Web"
+  },
+  {
+    "codelabLink": "https://developers.google.com/learn/pathways/get-started-object-detection?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Get started with object detection",
+    "tag0": "Learning Lab",
+    "tag1": "ML/AI"
+  },
+  {
+    "codelabLink": "https://developers.google.com/learn/pathways/get-started-audio-classification/?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Get started with audio classification",
+    "tag0": "Learning Lab",
+    "tag1": "ML/AI"
+  },
+  {
+    "codelabLink": "https://developers.google.com/codelabs/google-maps-simple-store-locator?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Create a simple store locator with Google Maps Platform",
+    "tag0": "Codelabs",
+    "tag1": "Location/Maps"
+  },
+  {
+    "codelabLink": "https://codelabs.developers.google.com/codelabs/smarthome-washer?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab",
+    "codelabTitle": "Connect smart home devices to the Google Assistant",
+    "tag0": "Codelabs",
+    "tag1": "Google Assistant"
+  }
+]

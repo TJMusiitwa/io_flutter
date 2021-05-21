@@ -1,0 +1,138 @@
+[
+  {
+    "header": "Who should attend Google I/O 2021?",
+    "content": "Developers around the world who are interested in Google technology should tune in to get the latest product releases, insights from Google experts, and hands-on learning."
+  },
+  {
+    "header": "When and where is Google I/O 2021?",
+    "content": "The 2021 developer event will be held virtually from May 18 to 20."
+  },
+  {
+    "header": "What does Google I/O 2021 cost?",
+    "content": "This year, Google I/O is free - even the content that needs to be reserved - making the experience inclusive and accessible for everyone."
+  },
+  {
+    "header": "Is there a Code of Conduct for the event?",
+    "content": "Even though the event will occur online, we want to ensure that any interactions with Googlers and other attendees follow our code of conduct. Everyone, including the audience, speakers, and all involved with the event are required to agree to the Community Guidelines to ensure that Google I/O 2021 is a harassment-free and inclusive event experience for everyone."
+  },
+  {
+    "header": "What happens if I violate the Community Guidelines?",
+    "content": "Google reserves the right to refuse admittance to, or remove any person from, any Google hosted event (including future Google events) at any time in its sole discretion. This includes, but is not limited to, attendees behaving in a disorderly manner or failing to comply with this policy, and the terms and conditions herein. If a participant engages in harassing or uncomfortable behavior, the conference organizers may take any action they deem appropriate, including warning or expelling the offender from the conference with no refund or blocking the offender's account from participating online."
+  },
+  {
+    "header": "How do I report a violation of the Community Guidelines?",
+    "content": "Please file a report with io-saysomething@google.com. Our team will review escalations and take the necessary actions."
+  },
+  {
+    "header": "I’m having trouble logging in. What do I do?",
+    "content": ""
+  },
+  {
+    "header": "How can I stay informed on the latest announcements from Google I/O?",
+    "content": "To stay up-to-date on the latest information on Sessions, speakers, and overall activities, be sure to frequently visit the Google I/O website, the Google Developers Blog, and follow us on Twitter and Facebook. You can also follow and join the social conversation about Google I/O via the official #GoogleIO hashtag. In addition, we'll be emailing important information to all registered attendees, along with check-in instructions prior to the festival."
+  },
+  {
+    "header": "What does registration include?",
+    "content": "Keynotes, Sessions, and other learning experiences such as Codelabs will be accessible to everyone on our event website. However, you get much more out of the Google I/O experience when you register, including access to Workshops, Ask Me Anything Sessions (AMAs), personalized content, and live Q&A during Sessions. You also gain the ability to chat in I/O Adventure, earn Google Developer profile badges, and can build and save your schedule."
+  },
+  {
+    "header": "Do I need to register to watch the Keynotes?",
+    "content": "Registration is not required to watch the Keynotes, but developers are encouraged to register to get the most from the rest of the I/O experience, including a chance to interact with Googlers live and ask questions. See “what does registration include” for more details. After the event, Keynotes and Sessions will be available on YouTube."
+  },
+  {
+    "header": "Are there any in-person aspects to the event?",
+    "content": "No, we’ve decided to have a virtual conference. The event will feel different this year, but we’re excited by the idea of making the event accessible to everyone, globally.  Skip ahead to the Program section to learn more."
+  },
+  {
+    "header": "Where can I find the agenda details?",
+    "content": ""
+  },
+  {
+    "header": "How can I customize My I/O?",
+    "content": "Head over to the website and log into My I/O  at the top right navigation."
+  },
+  {
+    "header": "What is a Google Developer profile?",
+    "content": "A Google Developer profile makes your experience with Google Developers material easier by letting you save documentation and learning pathway progress. You can also earn badges to share your achievements -  for this event, you can collect up to five that are unique to Google I/O ‘21."
+  },
+  {
+    "header": "What will virtual content look like?",
+    "content": "All content is virtual, but formats vary to best meet the needs of our global audience. Here’s a look at how things will go:"
+  },
+  {
+    "header": "Can I reserve Sessions ahead of the event?",
+    "content": "Starting in late April, attendees can reserve seats on a first-come, first-served basis for Workshops and Ask Me Anything Sessions in advance of the event on the I/O website. Register to be notified when this is available or check the website."
+  },
+  {
+    "header": "What if I miss an event? Will announcements and Sessions be recorded?",
+    "content": "Most content will be available on-demand. The easiest way to access it is to log into My I/O, view your schedule, and watch from there. You may also view the all content page to catch up on content."
+  },
+  {
+    "header": "Can you accommodate my accessibility needs?",
+    "content": "Google strives to make events open and accessible to everyone, regardless of disability or special needs. Participants with disabilities and/or special needs should provide details in the registration form. This information will be kept private and will be distributed only to the individuals who need to know it to accommodate your request."
+  },
+  {
+    "header": "Can I choose my language on the website?",
+    "content": "Yes. If you navigate to the top right of the I/O website, you will find the Language switcher which will enable you to view web page content in the following languages:"
+  },
+  {
+    "header": "Will the Sessions be in English?",
+    "content": "Keynotes and Technical Sessions will be Localized in the languages listed below."
+  },
+  {
+    "header": "How do I participate in the Community Lounge?",
+    "content": "Connect with other developers in the Community Lounge through Meetups. To reserve space, you'll be asked to sign up or into a Google Account. From there, you’ll enter the Meetups website. You can also find Meetups listed in the Schedule."
+  },
+  {
+    "header": "What kind of Meetups will be available?",
+    "content": "I/O Meetups are virtual and led by Googlers, and are an opportunity for attendees to network and meet people with similar interests."
+  },
+  {
+    "header": "How do I view the schedule in my time zone?",
+    "content": "The Schedule and All content pages will automatically adjust to your time zone; no need to do anything."
+  },
+  {
+    "header": "Will there be community-led events (I/O Extended)?",
+    "content": "While there will be no physical, in-person Google I/O events in 2021, there will be many virtual meet ups and ways to interact online with the wider developer community or those in your area. Visit the Community Lounge to see what's happening."
+  },
+  {
+    "header": "What is I/O Adventure?",
+    "content": "I/O Adventure is a virtual event experience. Explore to see product demos, chat with Googlers, earn Google Developer profile badges and virtual swag, engage with the developer community, create an avatar, and look for easter eggs."
+  },
+  {
+    "header": "Do I need a Google Developer profile to experience I/O Adventure?",
+    "content": "You can still have an I/O Adventure experience without a Google Developer profile, but if you'd like to earn badges in Adventure, create a profile."
+  },
+  {
+    "header": "How do I show up in I/O Adventure?",
+    "content": "Registered attendees who experience I/O Adventure will be displayed as a customized avatar in the digital space. You can collect unique virtual swag to represent your style."
+  },
+  {
+    "header": "What are the hours of operation?",
+    "content": "Adventure will be open on Day 1 of Google I/O after the Developer keynote, in multiple time zones, and will close on Day 3, May 20, at 2 PST. Hours with live chat may change."
+  },
+  {
+    "header": "Will I/O Adventure be in English only?",
+    "content": "No, it will also be available in Simplified Chinese, Indonesian, French, Spanish, Japanese, Korean, and Portuguese."
+  },
+  {
+    "header": "How do Office Hours work?",
+    "content": "Office hours are 1:1 topic-based sessions with Googlers via Google Meet. Only registered attendees can book office hours within I/O Adventure. Waitlists will not be available."
+  },
+  {
+    "header": "How do Round Tables work?",
+    "content": "Round Tables are text only and available in participating I/O Adventure product domes. They're moderated discussions with a max of 10 attendees, including a developer from Google."
+  },
+  {
+    "header": "Can I chat in I/O Adventure?",
+    "content": "New registrations have an approval wait time. Sign in again after 9am PT the next calendar day of the conference to join as an attendee. Thank you for your patience here!"
+  },
+  {
+    "header": "Is there an I/O app this year?",
+    "content": "This year, there's no companion app. You can find all the latest sessions and online experiences via the Google I/O site and inside I/O Adventure."
+  },
+  {
+    "header": "I already registered. How can I make changes?",
+    "content": ""
+  }
+]
