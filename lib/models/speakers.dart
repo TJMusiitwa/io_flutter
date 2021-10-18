@@ -20,13 +20,12 @@ class Speakers {
   final String speakerName;
 
   factory Speakers.fromJson(Map<String, dynamic> json) => Speakers(
-        speakerImage:
-            json["speakerImage"] == null ? null : json["speakerImage"],
+        speakerImage: json["speakerImage"],
         speakerName: json["speakerName"],
       );
 
   Map<String, dynamic> toJson() => {
-        "speakerImage": speakerImage == null ? null : speakerImage,
+        "speakerImage": speakerImage,
         "speakerName": speakerName,
       };
 }

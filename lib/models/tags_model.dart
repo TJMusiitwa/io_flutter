@@ -7,15 +7,15 @@ class Tags {
     if (json['tags'] != null) {
       tags = <Tags>[];
       json['tags'].forEach((v) {
-        tags.add(new Tags.fromJson(v));
+        tags.add(Tags.fromJson(v));
       });
     }
   }
 
   Map<String, dynamic> toJson() {
-    final Map<String, dynamic> data = new Map<String, dynamic>();
-    if (this.tags != null) {
-      data['tags'] = this.tags.map((v) => v.toJson()).toList();
+    final Map<String, dynamic> data = <String, dynamic>{};
+    if (tags != null) {
+      data['tags'] = tags.map((v) => v.toJson()).toList();
     }
     return data;
   }

@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:material_design_icons_flutter/material_design_icons_flutter.dart';
+import 'package:io_flutter/settingsPage/faq.dart';
 import 'package:url_launcher/url_launcher.dart';
-
-import '../io_drawer.dart';
 
 class SettingsScreen extends StatefulWidget {
   @override
@@ -10,40 +8,30 @@ class SettingsScreen extends StatefulWidget {
 }
 
 class _SettingsScreenState extends State<SettingsScreen> {
-  bool _eventTime = false;
-  bool _isSelected = false;
+  final bool _isSelected = false;
+  bool _isDarkMode = false;
   bool _allowNotifications = false;
   bool _sendAnonymData = false;
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Settings'),
-        actions: <Widget>[
-          IconButton(
-            icon: Icon(
-              MdiIcons.accountCircleOutline,
-              color: Colors.blue.shade800,
-              size: 40,
-            ),
-            onPressed: () {},
-          )
-        ],
+        title: const Text('Settings'),
       ),
       body: Container(
-        padding: EdgeInsets.symmetric(vertical: 8, horizontal: 8),
+        padding: const EdgeInsets.symmetric(vertical: 8, horizontal: 8),
         child: Column(
           mainAxisAlignment: MainAxisAlignment.start,
           crossAxisAlignment: CrossAxisAlignment.start,
           children: <Widget>[
             SwitchListTile.adaptive(
-              value: _isSelected,
-              onChanged: (bool pTime) {
+              value: _isDarkMode,
+              onChanged: (bool theme) {
                 setState(() {
-                  _eventTime = pTime;
+                  _isDarkMode = theme;
                 });
               },
-              title: Text('Events in Pacific Time Zone (UTC-8)'),
+              title: const Text('Switch Theme'),
             ),
             SwitchListTile.adaptive(
               value: _isSelected,
@@ -52,7 +40,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
                   _allowNotifications = allowed;
                 });
               },
-              title: Text('Enable notifications'),
+              title: const Text('Enable notifications'),
             ),
             SwitchListTile.adaptive(
               value: _isSelected,
@@ -61,16 +49,24 @@ class _SettingsScreenState extends State<SettingsScreen> {
                   _sendAnonymData = sendTrue;
                 });
               },
-              title: Text('Send anonymous usage statistics'),
+              title: const Text('Send anonymous usage statistics'),
             ),
-            Divider(),
+            const Divider(),
             ListTile(
                 title: Text(
               'ABOUT',
               style: Theme.of(context).textTheme.bodyText2,
             )),
             ListTile(
-              title: Text(
+              title: const Text(
+                'FAQs',
+              ),
+              subtitle: const Text('Answers to your questions'),
+              onTap: () => Navigator.push(
+                  context, MaterialPageRoute(builder: (_) => const FAQPage())),
+            ),
+            ListTile(
+              title: const Text(
                 'Community Guidelines',
               ),
               onTap: () {
@@ -78,33 +74,32 @@ class _SettingsScreenState extends State<SettingsScreen> {
               },
             ),
             ListTile(
-              title: Text('Terms of service'),
+              title: const Text('Terms of service'),
               onTap: () {
                 launch('https://policies.google.com/terms');
               },
             ),
             ListTile(
-              title: Text('Open sources licenses'),
+              title: const Text('Open sources licenses'),
+              subtitle: const Text(
+                  'All the wonderful libraries that made this app possible'),
               onTap: () {
                 showLicensePage(
                     context: context,
-                    applicationIcon: Image.asset('assets/img/io_logo.png'),
+                    applicationIcon: Image.asset('assets/img/io_logo.png',
+                        width: 100, height: 100),
                     applicationName: 'I/O Flutter App',
                     applicationVersion: '2.0.0');
               },
             ),
-            ListTile(
-                title: Text(
-              'Version 2.0.0',
-              style: Theme.of(context).textTheme.subtitle2,
-            )),
-            SizedBox(height: 10),
+            //const SizedBox(height: 10),
+            Expanded(child: Container()),
             Center(
               child: Row(
                 crossAxisAlignment: CrossAxisAlignment.center,
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: <Widget>[
-                  FlutterLogo(
+                  const FlutterLogo(
                     size: 30,
                   ),
                   Text(
@@ -116,11 +111,15 @@ class _SettingsScreenState extends State<SettingsScreen> {
                   )
                 ],
               ),
-            )
+            ),
+            Center(
+                child: Text(
+              'Version 2.0.0',
+              style: Theme.of(context).textTheme.caption,
+            ))
           ],
         ),
       ),
-      drawer: IODrawer(),
     );
   }
 }

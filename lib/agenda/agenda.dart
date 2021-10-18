@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:io_flutter/io_drawer.dart';
 import 'package:material_design_icons_flutter/material_design_icons_flutter.dart';
 
 class AgendaScreen extends StatelessWidget {
@@ -19,7 +18,6 @@ class AgendaScreen extends StatelessWidget {
           )
         ],
       ),
-      drawer: IODrawer(),
       body: ListView(
         padding: EdgeInsets.symmetric(vertical: 20, horizontal: 15),
         children: <Widget>[
