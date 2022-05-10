@@ -1,31 +1,51 @@
 // To parse this JSON data, do
 //
-//     final speakers = speakersFromJson(jsonString);
+//     final speaker = speakerFromJson(jsonString);
 
 import 'dart:convert';
 
-List<Speakers> speakersFromJson(String str) =>
-    List<Speakers>.from(json.decode(str).map((x) => Speakers.fromJson(x)));
+List<Speaker> speakerFromJson(String str) =>
+    List<Speaker>.from(json.decode(str).map((x) => Speaker.fromJson(x)));
 
-String speakersToJson(List<Speakers> data) =>
+String speakerToJson(List<Speaker> data) =>
     json.encode(List<dynamic>.from(data.map((x) => x.toJson())));
 
-class Speakers {
-  Speakers({
-    this.speakerImage,
-    required this.speakerName,
+class Speaker {
+  Speaker({
+    required this.name,
+    this.pronouns,
+    required this.speakerLink,
+    required this.role,
+    required this.description,
+    required this.talk,
+    required this.image,
   });
 
-  final String? speakerImage;
-  final String speakerName;
+  final String name;
+  final String? pronouns;
+  final String speakerLink;
+  final String role;
+  final String description;
+  final String talk;
+  final String image;
 
-  factory Speakers.fromJson(Map<String, dynamic> json) => Speakers(
-        speakerImage: json["speakerImage"],
-        speakerName: json["speakerName"],
+  factory Speaker.fromJson(Map<String, dynamic> json) => Speaker(
+        name: json["name"],
+        pronouns: json["pronouns"],
+        speakerLink: json["speakerLink"],
+        role: json["role"],
+        description: json["description"],
+        talk: json["talk"],
+        image: json["image"],
       );
 
   Map<String, dynamic> toJson() => {
-        "speakerImage": speakerImage,
-        "speakerName": speakerName,
+        "name": name,
+        "pronouns": pronouns,
+        "speakerLink": speakerLink,
+        "role": role,
+        "description": description,
+        "talk": talk,
+        "image": image,
       };
 }

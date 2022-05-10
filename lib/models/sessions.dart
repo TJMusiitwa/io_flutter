@@ -1,67 +1,79 @@
 // To parse this JSON data, do
 //
-//     final sessions = sessionsFromJson(jsonString);
+//     final session = sessionFromJson(jsonString);
 
 import 'dart:convert';
 
-List<Sessions> sessionsFromJson(String str) =>
-    List<Sessions>.from(json.decode(str).map((x) => Sessions.fromJson(x)));
+List<Session> sessionFromJson(String str) =>
+    List<Session>.from(json.decode(str).map((x) => Session.fromJson(x)));
 
-String sessionsToJson(List<Sessions> data) =>
+String sessionToJson(List<Session> data) =>
     json.encode(List<dynamic>.from(data.map((x) => x.toJson())));
 
-class Sessions {
-  Sessions({
-    this.sessionGeneralTime,
-    this.sessionLink,
-    this.sessionTime,
-    required this.sessionTitle,
-    this.eventTag0,
-    this.eventTag1,
-    this.eventTag2,
-    this.eventTag3,
-    this.eventTag4,
-    this.eventTag5,
-    this.eventTag6,
+class Session {
+  Session({
+    required this.link,
+    required this.image,
+    required this.datetime,
+    required this.time,
+    required this.day,
+    required this.title,
+    required this.description,
+    required this.level,
+    required this.category,
+    this.category2,
   });
 
-  final String? sessionGeneralTime;
-  final String? sessionLink;
-  final String? sessionTime;
-  final String sessionTitle;
-  final String? eventTag0;
-  final String? eventTag1;
-  final String? eventTag2;
-  final String? eventTag3;
-  final String? eventTag4;
-  final String? eventTag5;
-  final String? eventTag6;
+  final String link;
+  final String image;
+  final String datetime;
+  final String time;
+  final Day? day;
+  final String title;
+  final String description;
+  final String level;
+  final String category;
+  final String? category2;
 
-  factory Sessions.fromJson(Map<String, dynamic> json) => Sessions(
-        sessionGeneralTime: json["sessionGeneralTime"],
-        sessionLink: json["sessionLink"],
-        sessionTime: json["sessionTime"],
-        sessionTitle: json["sessionTitle"],
-        eventTag0: json["eventTag0"],
-        eventTag1: json["eventTag1"],
-        eventTag2: json["eventTag2"],
-        eventTag3: json["eventTag3"],
-        eventTag4: json["eventTag4"],
-        eventTag5: json["eventTag5"],
-        eventTag6: json["eventTag6"],
+  factory Session.fromJson(Map<String, dynamic> json) => Session(
+        link: json["link"],
+        image: json["image"],
+        datetime: json["datetime"],
+        time: json["time"],
+        day: dayValues.map[json["day"]],
+        title: json["title"],
+        description: json["description"],
+        level: json["level"],
+        category: json["category"],
+        category2: json["category2"],
       );
 
   Map<String, dynamic> toJson() => {
-        "sessionGeneralTime": sessionGeneralTime,
-        "sessionLink": sessionLink,
-        "sessionTime": sessionTime,
-        "sessionTitle": sessionTitle,
-        "eventTag0": eventTag0,
-        "eventTag1": eventTag1,
-        "eventTag2": eventTag2,
-        "eventTag3": eventTag3,
-        "eventTag4": eventTag4,
-        "eventTag5": eventTag5,
-        "eventTag6": eventTag6,
+        "link": link,
+        "image": image,
+        "datetime": datetime,
+        "time": time,
+        "day": dayValues.reverse![day],
+        "title": title,
+        "description": description,
+        "level": level,
+        "category": category,
+        "category2": category2,
       };
+}
+
+enum Day { DAY_1, DAY_2 }
+
+final dayValues = EnumValues({"Day 1": Day.DAY_1, "Day 2": Day.DAY_2});
+
+class EnumValues<T> {
+  Map<String, T> map;
+  Map<T, String>? reverseMap;
+
+  EnumValues(this.map);
+
+  Map<T, String>? get reverse {
+    reverseMap ??= map.map((k, v) => new MapEntry(v, k));
+    return reverseMap;
+  }
 }

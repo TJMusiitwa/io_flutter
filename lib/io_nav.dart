@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:io_flutter/codelabs/codelabs.dart';
 import 'package:io_flutter/home/home_screen.dart';
 import 'package:io_flutter/schedule/schedule.dart';
 import 'package:io_flutter/settingsPage/settings.dart';
@@ -18,7 +17,7 @@ class _IONavState extends State<IONav> {
     HomeScreen(),
     ScheduleScreen(),
     SpeakersScreen(),
-    CodelabsScreen(),
+    //CodelabsScreen(),
     SettingsScreen()
   ];
   @override
@@ -31,7 +30,7 @@ class _IONavState extends State<IONav> {
           BottomNavigationBarItem(
               icon: Icon(Icons.calendar_today), label: 'Schedule'),
           BottomNavigationBarItem(icon: Icon(Icons.people), label: 'Speakers'),
-          BottomNavigationBarItem(icon: Icon(Icons.code), label: 'Codelabs'),
+          //BottomNavigationBarItem(icon: Icon(Icons.code), label: 'Codelabs'),
           BottomNavigationBarItem(icon: Icon(Icons.more_horiz), label: 'More'),
         ],
         currentIndex: _currentPage,

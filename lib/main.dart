@@ -12,6 +12,10 @@ class MyApp extends StatelessWidget {
       title: 'I/O Flutter App',
       theme: ThemeData(
           primaryColor: Colors.white,
+          useMaterial3: true,
+          fontFamily: 'Roboto',
+          androidOverscrollIndicator: AndroidOverscrollIndicator.stretch,
+          applyElevationOverlayColor: true,
           scaffoldBackgroundColor: Colors.grey[50],
           visualDensity: VisualDensity.adaptivePlatformDensity,
           brightness: Brightness.light,
@@ -22,7 +26,9 @@ class MyApp extends StatelessWidget {
               titleTextStyle: Theme.of(context)
                   .textTheme
                   .headline6!
-                  .copyWith(color: Colors.black)),
+                  .copyWith(color: Colors.black),
+              iconTheme:
+                  IconThemeData(color: Theme.of(context).primaryColorDark)),
           textTheme: const TextTheme(
             headline1: TextStyle(
                 fontSize: 96, fontWeight: FontWeight.w300, letterSpacing: -1.5),
@@ -50,8 +56,24 @@ class MyApp extends StatelessWidget {
                 fontSize: 10, fontWeight: FontWeight.w400, letterSpacing: 1.5),
           ),
           colorScheme: ColorScheme.fromSwatch(accentColor: Colors.blue)),
-      //darkTheme: ThemeData.dark().copyWith(),
+      darkTheme: ThemeData.dark().copyWith(
+        colorScheme: ColorScheme.fromSwatch(accentColor: Colors.blue),
+        useMaterial3: true,
+        androidOverscrollIndicator: AndroidOverscrollIndicator.stretch,
+        visualDensity: VisualDensity.adaptivePlatformDensity,
+        appBarTheme: AppBarTheme(
+            elevation: 0,
+            centerTitle: true,
+            backgroundColor: Colors.black45,
+            titleTextStyle: Theme.of(context)
+                .textTheme
+                .headline6!
+                .copyWith(color: Colors.white),
+            iconTheme:
+                IconThemeData(color: Theme.of(context).primaryColorLight)),
+      ),
       home: const IONav(),
+      themeMode: ThemeMode.system,
     );
   }
 }

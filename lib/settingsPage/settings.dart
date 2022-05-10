@@ -69,15 +69,12 @@ class _SettingsScreenState extends State<SettingsScreen> {
               title: const Text(
                 'Community Guidelines',
               ),
-              onTap: () {
-                launch('https://developers.google.com/community-guidelines');
-              },
+              onTap: () => launchUrl(Uri.parse(
+                  'https://developers.google.com/community-guidelines')),
             ),
             ListTile(
               title: const Text('Terms of service'),
-              onTap: () {
-                launch('https://policies.google.com/terms');
-              },
+              onTap: () => launchUrl(Uri.parse('https://policies.google.com/')),
             ),
             ListTile(
               title: const Text('Open sources licenses'),

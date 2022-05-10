@@ -105,7 +105,8 @@ class _CodelabsScreenState extends State<CodelabsScreen> {
                               title: Text(codelabItem.codelabTitle),
                               visualDensity:
                                   VisualDensity.adaptivePlatformDensity,
-                              onTap: () => launch(codelabItem.codelabLink),
+                              onTap: () =>
+                                  launchUrl(Uri.parse(codelabItem.codelabLink)),
                               subtitle: Text(
                                   '${codelabItem.tag0.toString()}, ${codelabItem.tag1.toString()}'));
                         },
